@@ -1,7 +1,7 @@
 """
-jason_lab5.py
+region_growing.py
 
-Purpose: This script is for GIS 662 Lab 5. It performs a region growing on one
+Purpose: This script performs region growing on one
          seed pixel and a spectral distace threshold.
 
 Author: Jason Greenstein
