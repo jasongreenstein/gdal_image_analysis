@@ -1,7 +1,7 @@
 """
-jason_lab3.py
+orthorectification.py
 
-Purpose: This script is for GIS 663 lab 3. It will generate a ortho image from
+Purpose: This script will generate a ortho image from
          a DEM and an aerial image.
 
 Author: Jason Greenstein
