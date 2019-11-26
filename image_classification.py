@@ -1,7 +1,7 @@
 """
-jason_lab4.py
+image_classification.py
 
-Purpose: This script is for GIS 663 lab 4. It classifies an image using the minimum
+Purpose: This script classifies an image using the minimum
          distance method.
 
 Author: Jason Greenstein
